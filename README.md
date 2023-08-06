@@ -30,7 +30,7 @@ learn.predict("The food is good and the staff", words=30, temperature=0.75)
 The food is good and the staff is very friendly. We had the full menu and the Big Lots of Vegas. The food was ok, but there was nothing and this isn't a Chinese place.
 
 ### Classifier: Predicting the Star-value of a Review 
-The overall accuracy of the trained classifier was 0.665, which means that giving the model and un-seen restaurant review it can predict its rating (1-5 stars) correctly 66.5% of the time.
+The overall accuracy of the trained classifier was 0.672, which means that giving the model and un-seen restaurant review it can predict its rating (1-5 stars) correctly 67.2% of the time.
 
 Examples
 
